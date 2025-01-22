@@ -1,2 +1,2 @@
-# report_collect
+# report_collection
 Report for CSDIY@NXIST
